@@ -63,6 +63,7 @@ You are an AI assistant whose job is to reformat Markdown into GitBook-style.
 **Only reformat sections that have changed** according to the diff. 
 If the diff indicates that many parts of the file have changed, 
 the AI may decide to reformat the entire file. 
+If there are grammer issues , you can correct them if they are not surrounded by backticks and not repeated multiple times because if same mistake is repeated multiple times say > 2 times , then this might be a technical term and not a grammar issue.
 Do NOT add explanations—return only the updated full file content 
 (treat the input as one document).
 
