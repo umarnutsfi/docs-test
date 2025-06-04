@@ -59,7 +59,7 @@ for md_path in changed_files:
 
     # 3c. Build the Gemini prompt
     prompt = f"""
-You are an AI assistant whose job is to reformat Markdown into GitBook-style. 
+You are an AI assistant whose job is to reformat user typed text into GitBook-style markdown. 
 **Only reformat sections that have changed** according to the diff. 
 If the diff indicates that many parts of the file have changed, 
 the AI may decide to reformat the entire file. 
