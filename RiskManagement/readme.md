@@ -1,3 +1,3 @@
+# Risk Management
 
-Risk management
-Risk managemnt is very important in pike
+Risk management is very important in Pike.
