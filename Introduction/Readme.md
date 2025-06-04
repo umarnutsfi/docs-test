@@ -6,4 +6,4 @@ Let's add something more
 # pTokens
 
 pTokens are one of the most important things in pike.
-pTokens are smart contract allow the users to finally kickoff the markets activitis like borrow , lend etc...
+pTokens are smart contract allow the users to finally kickoff the markets activitis like borrow , lend etc. And that's why it is so important.
